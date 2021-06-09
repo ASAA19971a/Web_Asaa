@@ -2,7 +2,7 @@ function insertar(num) {
     document.formulario.pantalla.value = document.formulario.pantalla.value + num;
 
 }
-
+// funcion mole
 function resultado() {
     var datos = document.formulario.pantalla.value;
 
